@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-Junior developer with hands-on experience maintaining **legacy PHP** systems alongside modern **Python (FastAPI)** services, plus some exposure to **Vue.js, Symfony, React**, and basic **DevOps** tooling (Docker, AWS, CI/CD).
+Junior developer with hands-on experience maintaining **legacy PHP** systems alongside modern **Python (FastAPI)** services, plus some exposure to **Vue.js, Symfony, React, Angular (.ts)**, and basic **DevOps** tooling (Docker, AWS, CI/CD).
 
 - 🔭 Currently working with legacy PHP and Python backend services
 - 🌱 Learning more about DevOps and cloud deployments
@@ -27,7 +27,7 @@ Junior developer with hands-on experience maintaining **legacy PHP** systems alo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode,angular&theme=dark" />
 
 </div>
 
@@ -41,7 +41,7 @@ Junior developer with hands-on experience maintaining **legacy PHP** systems alo
 
 ### 👨‍💻 Sobre mí
 
-Desarrollador junior con experiencia práctica manteniendo sistemas heredados en **PHP** junto a servicios modernos en **Python (FastAPI)**, además de cierta exposición a **Vue.js, Symfony, React** y herramientas básicas de **DevOps** (Docker, AWS, CI/CD).
+Desarrollador junior con experiencia práctica manteniendo sistemas heredados en **PHP** junto a servicios modernos en **Python (FastAPI)**, además de cierta exposición a **Vue.js, Symfony, React, Angular (.ts)** y herramientas básicas de **DevOps** (Docker, AWS, CI/CD).
 
 - 🔭 Actualmente trabajando con PHP heredado y servicios backend en Python
 - 🌱 Profundizando en DevOps y despliegues en la nube
@@ -53,7 +53,7 @@ Desarrollador junior con experiencia práctica manteniendo sistemas heredados en
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode,angular&theme=dark" />
 
 </div>
 
