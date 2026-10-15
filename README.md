@@ -27,7 +27,7 @@ Junior developer with hands-on experience maintaining **legacy PHP** systems alo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode,angular&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode,angular,cs,kotlin&theme=dark" />
 
 </div>
 
@@ -53,7 +53,7 @@ Desarrollador junior con experiencia práctica manteniendo sistemas heredados en
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode,angular&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,fastapi,vue,symfony,react,html,css,js,mysql,docker,aws,git,github,githubactions,linux,vscode,angular,cs,kotlin&theme=dark" />
 
 </div>
 
